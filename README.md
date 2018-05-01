@@ -1,8 +1,6 @@
 # programazonas
 Códigos das Aulas do Projeto ProgrAmazonas
 
-Python
-
-Arduino
-
-Web Design
+- Python<br>
+- Arduino<br>
+- Web Design<br>
